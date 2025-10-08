@@ -2,6 +2,10 @@
 
 **MadCaptcha** — это современная и настраиваемая система CAPTCHA, предназначенная для защиты веб-приложений от ботов. Она сочетает в себе простоту интеграции.
 
+## Использованные технологии
+- HTML/JS/другое
+- **AI Assistance**: DeepSeek AI (https://deepseek.com)
+
 ![MadCaptcha Preview](https://i.postimg.cc/7b8ZcFpB/image.png) <!-- Замените на реальный URL скриншота -->
 
 ## ✨ Особенности
